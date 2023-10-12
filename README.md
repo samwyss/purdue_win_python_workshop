@@ -29,7 +29,7 @@ If you do not already have a GitHub account, now is the perfect time to [make on
 11) [Jupyter Notebooks in VSCode](./11%20Jupyter%20Notebooks)
 12) [NumPy API - How to Efficiently Do Math](./12%20NumPy)
 13) [Matplotlib API - Making Decent Looking Figures](./13%20Matplotlib)
-14) [PyTest and Test Driven Development](./14%20PyTest)
+14) [PyTest and Test Driven Development (TDD)](./14%20PyTest)
 
 # References
 1) Python Crash Course - A Hands-On Project Based Introduction to Programming 2e
