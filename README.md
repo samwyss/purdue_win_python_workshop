@@ -21,13 +21,15 @@ If you do not already have a GitHub account, now is the perfect time to [make on
 3) [Hello World! - Your First Python Program](./3%20Hello%20World!)
 4) [Variables and Simple Data Types](./4%20Variables%20and%20Simple%20Data%20Types)
 5) [Dictionaries and Lists](./5%20Dictionaries%20and%20Lists)
-6) [Functions - Writing Reusable Code](./6%20Functions)
-7) [File I/O - Saving Results](./7%20Files)
-8) [Modules - Organizing and Importing Codebases](./8%20Modules)
-9) [Introduction to Object-Oriented Programming (OOP)](./9%20Introduction%20to%20OOP)
-10) [Jupyter Notebooks in VSCode](./10%20Jupyter%20Notebooks)
-11) [NumPy API - How to Efficiently Do Math](./11%20NumPy)
-12) [Matplotlib API - Making Decent Looking Figures](./12%20Matplotlib)
+6) [Conditional Logic and Looping](./6%20Conditional%20Logic%20and%20Looping)
+7) [Functions - Writing Reusable Code](./7%20Functions)
+8) [File I/O - Saving Results](./8%20Files)
+9) [Modules - Organizing and Importing Codebases](./9%20Modules)
+10) [Introduction to Object-Oriented Programming (OOP)](./10%20Introduction%20to%20OOP)
+11) [Jupyter Notebooks in VSCode](./11%20Jupyter%20Notebooks)
+12) [NumPy API - How to Efficiently Do Math](./12%20NumPy)
+13) [Matplotlib API - Making Decent Looking Figures](./13%20Matplotlib)
+14) [PyTest and Test Driven Development](./14%20PyTest)
 
 # References
 1) Python Crash Course - A Hands-On Project Based Introduction to Programming 2e
