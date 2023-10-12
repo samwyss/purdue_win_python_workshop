@@ -8,7 +8,7 @@ You do **NOT** need to have any prior programming experience to attend this work
 
 ## How do I follow along?
 This workshop is intended to be followed along with in person in **Room** on **Date**; however, nothing is stopping you from following through on your own asynchronously.
-To follow along, simply and follow all the instructions in each chapter which can be found in the corresponding *README.md* file.
+To follow along, simply and follow all the instructions in each chapter which can be found in the corresponding *README.pptx* or *README.md* file.
 All relevant Python files will be set up (unless setting up a python file is the objective) in the aforementioned directories.
 
 ## How can I make suggestions/contributions for future workshops?
