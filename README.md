@@ -32,7 +32,7 @@ If you do not already have a GitHub account, now is the perfect time to [make on
 9. [Modules - Organizing and Importing Codebases](./9%20Modules)
 10. [Introduction to Object-Oriented Programming (OOP)](./10%20Introduction%20to%20OOP)
 11. [Jupyter Notebooks in VSCode](./11%20Jupyter%20Notebooks)
-12. [NumPy API - How to Efficiently Do Math](./12%20NumPy)
+12. [NumPy and Numba API - How to Efficiently Do Math](./12%20NumPy)
 13. [Matplotlib API - Making Decent Looking Figures](./13%20Matplotlib)
 14. [PyTest and Test Driven Development (TDD)](./14%20PyTest)
 
@@ -42,3 +42,4 @@ If you do not already have a GitHub account, now is the perfect time to [make on
 2. [Python Standard Library API](https://docs.python.org/3/library/index.html)
 3. [NumPy API](https://numpy.org/doc/stable/reference/index.html)
 4. [Matplotlib API](https://matplotlib.org/stable/users/index)
+5. [Numba API](https://numba.readthedocs.io/en/stable/user/index.html)
