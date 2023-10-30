@@ -5,7 +5,7 @@ Welcome!
 ## What is this workshop about?
 
 This workshop is designed to walk you through the fundamentals of the Python Programming Language from a practical perspective as it pertains to the Purdue Nuclear Engineering curriculum.
-As such, the main goal of this workshop is to provide the background necessary to use Python as a tool in your daily lives.
+As such, the main goal of this workshop is to provide the background necessary to practically use Python in your classes and beyond. We will accomplish this by reviewing the fundamentals then going over several useful libraries. The goal is not to necessarily master any one of these topics; rather, to give you enough working experience to expand your skill set on the fly as you work with Python in the future.
 You do **NOT** need to have any prior programming experience to attend this workshop.
 
 ## How do I follow along?
@@ -32,9 +32,9 @@ If you do not already have a GitHub account, now is the perfect time to [make on
 9. [Modules - Organizing and Importing Codebases](./9%20Modules)
 10. [Introduction to Object-Oriented Programming (OOP)](./10%20Introduction%20to%20OOP)
 11. [Jupyter Notebooks in VSCode](./11%20Jupyter%20Notebooks)
-12. [NumPy and Numba API - How to Efficiently Do Math](./12%20NumPy)
+12. [NumPy API - How to Efficiently Do Matrix Math](./12%20NumPy)
 13. [Matplotlib API - Making Decent Looking Figures](./13%20Matplotlib)
-14. [PyTest and Test Driven Development (TDD)](./14%20PyTest)
+14. [Polars - Working with DataFrames and Categorical Data](./14Polars)
 
 # References
 
@@ -42,4 +42,4 @@ If you do not already have a GitHub account, now is the perfect time to [make on
 2. [Python Standard Library API](https://docs.python.org/3/library/index.html)
 3. [NumPy API](https://numpy.org/doc/stable/reference/index.html)
 4. [Matplotlib API](https://matplotlib.org/stable/users/index)
-5. [Numba API](https://numba.readthedocs.io/en/stable/user/index.html)
+5. [Polars API](https://pola-rs.github.io/polars/py-polars/html/reference/)
