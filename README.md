@@ -43,3 +43,4 @@ If you do not already have a GitHub account, now is the perfect time to [make on
 3. [NumPy API](https://numpy.org/doc/stable/reference/index.html)
 4. [Matplotlib API](https://matplotlib.org/stable/users/index)
 5. [Polars API](https://pola-rs.github.io/polars/py-polars/html/reference/)
+6. [VSCode Docs](https://code.visualstudio.com/Docs)
