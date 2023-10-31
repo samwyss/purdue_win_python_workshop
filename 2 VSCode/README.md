@@ -78,6 +78,18 @@ This cluster of buttons allows you to change the layout of your VSCode tab. Of t
 
 ## Adding Extensions
 
+Since we will be using Python, let's go ahead and add some extensions that will aid in Python development.
+
+In the extensions tab, search `Python Extension Pack`. Click on it and you should see the following page.
+
+![Python Extension Pack](images/python_extension_pack.png)
+
+Go ahead and click the `Install` button (It should be where the `Uninstall` button is located in the above image).
+
+Once installed, go ahead and close VSCode and reopen it. This will allow the packages to finish installation. We are now ready to begin writing Python.
+
 ## Useful Keybindings and Commands
+
+This section contains a list of some of the commands I use most frequently. All VSCode keybinds can be found here
 
 ## Next Chapter
