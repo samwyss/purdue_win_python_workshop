@@ -90,6 +90,8 @@ Once installed, go ahead and close VSCode and reopen it. This will allow the pac
 
 ## Useful Keybindings and Commands
 
-This section contains a list of some of the commands I use most frequently. All VSCode keybinds can be found here
+You can find a complete list of all keybindings [here](https://code.visualstudio.com/docs/getstarted/keybindings). Additionally, you can remap any keybindings. In the interest of time we will not go over any of this during this workshop but feel free to look into it on your own time.
 
 ## Next Chapter
+
+Congratulations! We are now ready to begin writing Python in [Chapter 3](../3%20Hello%20World/README.md).
