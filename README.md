@@ -22,19 +22,19 @@ If you do not already have a GitHub account, now is the perfect time to [make on
 # Chapters
 
 1. [Getting Started](./1%20Getting%20Started)
-2. [VSCode - Your One-Stop Development Shop](./2%20VSCode)
-3. [Hello World! - Your First Python Program](./3%20Hello%20World!)
-4. [Variables and Simple Data Types](./4%20Variables%20and%20Simple%20Data%20Types)
-5. [Common Data Structures - Dictionaries, Lists and Tuples](./5%20Common%20Data%20Structures)
-6. [Conditional Logic and Looping](./6%20Conditional%20Logic%20and%20Looping)
-7. [Functions - Writing Reusable Code](./7%20Functions)
-8. [File I/O - Saving Results](./8%20Files)
-9. [Modules - Organizing and Importing Codebases](./9%20Modules)
-10. [Introduction to Object-Oriented Programming (OOP)](./10%20Introduction%20to%20OOP)
-11. [Jupyter Notebooks in VSCode](./11%20Jupyter%20Notebooks)
-12. [NumPy API - How to Efficiently Do Matrix Math](./12%20NumPy)
-13. [Matplotlib API - Making Decent Looking Figures](./13%20Matplotlib)
-14. [Polars - Working with DataFrames and Categorical Data](./14Polars)
+2. [VSCode - Your One-Stop Development Shop](./2%20VSCode/README.md)
+3. [Hello World! - Your First Python Program](./3%20Hello%20World/README.md)
+4. [Variables and Simple Data Types](./4%20Variables%20and%20Simple%20Data%20Types/README.md)
+5. [Common Data Structures - Dictionaries, Lists and Tuples](./5%20Common%20Data%20Structures/README.md)
+6. [Conditional Logic and Looping](./6%20Conditional%20Logic%20and%20Looping/README.md)
+7. [Functions - Writing Reusable Code](./7%20Functions/README.md)
+8. [File I/O - Saving Results](./8%20Files/README.md)
+9. [Modules - Organizing and Importing Codebases](./9%20Modules/README.md)
+10. [Introduction to Object-Oriented Programming (OOP)](./10%20Introduction%20to%20OOP/README.md)
+11. [Jupyter Notebooks in VSCode](./11%20Jupyter%20Notebooks/README.md)
+12. [NumPy API - How to Efficiently Do Matrix Math](./12%20NumPy/README.md)
+13. [Matplotlib API - Making Decent Looking Figures](./13%20Matplotlib/README.md)
+14. [Polars - Working with DataFrames and Categorical Data](./14Polars/README.md)
 
 # References
 
